@@ -25,7 +25,7 @@ I love solving real-world problems by leveraging **statistical modeling**, **pre
   - Designed and implemented Tableau dashboards for web metrics and marketing performance.
   - Led migration of SQL queries from Google BigQuery to Databricks, improving performance by 50%.
 
-- **Data Analytics Engineer** at US Bank (July 2023 - June 2024)
+- **Data Analytics Engineer** at US Bank (Sept 2023 - June 2024)
   - Developed Azure Data Factory pipelines for data processing and integrated Power BI dashboards for data insights.
   
 - **Data Integration Engineer** at SEIU 775 Benefits Group (Feb 2023 - June 2023)
