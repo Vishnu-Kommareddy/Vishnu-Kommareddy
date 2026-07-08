@@ -97,7 +97,6 @@ I offer hands-on security assessments for startups preparing for **SOC 2**, **Se
 &#128231; **Email**: [Vishnu.code369@gmail.com](mailto:Vishnu.code369@gmail.com)  
 &#128279; **LinkedIn**: [linkedin.com/in/vishnu-data-enthusiast](https://www.linkedin.com/in/vishnu-data-enthusiast/)
 
----
 
 ## 📝 Security Audit Services
 
