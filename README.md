@@ -50,6 +50,7 @@ My industry experience in data and cloud engineering provides the practical foun
 - **ETL Pipeline with PySpark & Power BI**: Built an ETL pipeline to extract data from CSV files, transform it using PySpark, and load it into PostgreSQL, integrated into Power BI for visualization.
 - **Azure Data Factory Workflow**: End-to-end data workflows in Azure Data Factory combining Python scripts and Logic Apps for efficient data movement and transformation.
 - **Web Metrics Dashboard**: Tableau dashboard providing actionable insights on user behavior, page performance, and conversion rates — foundational experience in building analytics that inform security monitoring.
+- **USA Sales Dashboard**: Interactive Tableau dashboard analyzing US sales performance with dynamic filters, geographic maps, and KPI tracking. [View Dashboard](https://public.tableau.com/app/profile/vishnu.kommareddy/viz/USA_Sales_Dashboard/Dashboard1)
 
 ## 🎓 Certifications
 
